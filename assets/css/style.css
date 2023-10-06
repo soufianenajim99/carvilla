@@ -165,7 +165,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 /* remember */
 nav.navbar.bootsnav ul.nav > li > a {padding: 48px 21px;}
-nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus{color:#000000; background-color: #c411111f; transition: 1s; border-bottom: #000000 15px solid  ;border-radius: 40px;}
+nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus{color:#000000; background-color: #1500ffa6; transition: 1s; border-bottom: #000000 15px solid  ;border-radius: 40px;}
 nav.navbar.bootsnav ul.nav > li.active>a {color: #4e4ffa;}
 
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after {
